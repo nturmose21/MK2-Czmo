@@ -1,4 +1,5 @@
 # **Cozmo-MK2**
+![IMG_2760](https://github.com/user-attachments/assets/3c80b986-a316-432c-822f-bf7d158d7443)
 
 **Cozmo-MK2** is a small ESP32-powered robot inspired by Anki’s Cozmo. It uses dual servos for movement, an OLED display for animated emotions, and a mobile-friendly **Wi-Fi control interface** hosted directly on the ESP32.  
 
